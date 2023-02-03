@@ -1,0 +1,1 @@
+pyinstaller --onefile --icon=hack.ico main.py
